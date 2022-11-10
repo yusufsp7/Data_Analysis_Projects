@@ -13,7 +13,7 @@
 - purpose: reason for taking out a loan
 
 # Goal
-Utilizing different metrics to determine the likelihood that a customer defaults on a loan
+Analyze different parameter on loan failure
 
 # Libraries
 *pandas*
