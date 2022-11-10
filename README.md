@@ -4,4 +4,4 @@ They involve Data Preprocessing, Analysis and Visualization, Statistical Analysi
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Credit Score Analysis](https://github.com/cbngwajr/yandex-practicum/tree/Project-1 "Credit Score Analysis")|Analyze different parameter on loan failure|*pandas*|
+|[Loan Analysis](https://github.com/yusufsp7/Data_Analaysis_Projects/blob/Project-1/README.md)|Analyze different parameter on loan failure|*pandas*|
