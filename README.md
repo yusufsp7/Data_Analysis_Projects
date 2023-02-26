@@ -23,7 +23,7 @@ EN
 - `day` - the name of the day
 
 # Objektif:
-Analyzing music preferences in major cities.
+Analyzing music preferences in big cities.
 
 -----------------------------------------------
 
