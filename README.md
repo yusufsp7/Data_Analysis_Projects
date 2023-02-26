@@ -1,4 +1,4 @@
-# Data_Analaysis_Projects
+# Data Analysis Projects
 These are Data Analysist projects I completed when going through the Data Analyst training course in Practicum.
 They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, etc.
 
