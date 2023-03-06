@@ -6,6 +6,9 @@ Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visu
 | Proyek               | Deskripsi                                                                               | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
 |[Analisa Musik](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+|[Analisa Penilaian Kredit](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 EN\
 These are Data Analysist projects I completed when going through the Data Analyst training course in Practicum.\
