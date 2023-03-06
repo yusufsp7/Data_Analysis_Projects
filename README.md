@@ -6,7 +6,7 @@ Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visu
 | Proyek               | Deskripsi                                                                               | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
 |[Analisa Musik](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
-|[Analisa Penilaian Kredit](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+|[Analisa Penilaian Kredit](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_2)| Analisa untuk mempertimbangkan pada saat membuat penilaian kredit untuk calon nasabah|*pandas*|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,4 +16,5 @@ They involve Data Preprocessing, Analysis and Visualization, Statistical Analysi
 
 | Project               | Description                                                                                 | Libraries                      |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Music Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analyzing sser preferences for music in a big city|*pandas*|
+|[Music Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analyzing user preferences for music in a big city|*pandas*|
+|[Credit Score Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_2)| Analysis to consider when making a credit assessment for a prospective client|*pandas*|
