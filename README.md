@@ -1,16 +1,47 @@
-# Data Analysis Projects
-ID\
-Ini adalah proyek Analis Data yang saya selesaikan saat mengikuti kursus pelatihan Analis Data di Praktikum.\
-Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visualisasi, analisis statistik, dan sebagainya.
+ID
+# Dokumentasi:
+- `children` - jumlah anak dalam keluarga
+- `days_employed` - jumlah hari pengalaman kerja pelanggan
+- `dob_years` - usia pelanggan dalam tahun
+- `education` - tingkat pendidikan pelanggan
+- `education_id` - pengenal untuk tingkat pendidikan pelanggan
+- `family_status` - status pernikahan pelanggan
+- `family_status_id` - pengenal untuk status perkawinan pelanggan
+- `gender` - jenis kelamin pelanggan
+- `income_type` - jenis pekerjaan pelanggan
+- `debt` - apakah pelanggan memiliki utang pembayaran pinjaman
+- `total_income` - pendapatan bulanan
+- `purpose` - tujuan mendapatkan pinjaman
+- `age_group` - kategori usia
+- `purpose_group` - kategori tujuan pinjaman
+- `total_income_group` - kategori pendapatan
 
-| Proyek               | Deskripsi                                                                               | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Analisa Musik](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+# Objektif:
+Laporan ini akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah.
 
-EN\
-These are Data Analysist projects I completed when going through the Data Analyst training course in Practicum.\
-They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, etc.
+-----------------------------------------------
+EN
+# Documentation:
+- `children` - number of children in the family
+- `days_employed` - the number of days of customer's work experience
+- `dob_years` - the customer's age in years
+- `education` - customer's education level
+- `education_id` - identifier for customer's education level
+- `family_status` - customer's marital status
+- `family_status_id` - identifier for customer's marital status
+- `gender` - customer's gender
+- `income_type` - customer's type of employment
+- `debt` - whether the customer has a loan payment debt
+- `total_income` - monthly income
+- `purpose` - the purpose of getting a loan
+- `age_group` - age category
+- `purpose_group` - loan purpose category
+- `total_income_group` - income category
 
-| Project               | Description                                                                                 | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Music Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analyzing sser preferences for music in a big city|*pandas*|
+# Objektif:
+This report will be considered when making credit assessments for prospective customers.
+
+-----------------------------------------------
+
+# Libraries
+*pandas*
