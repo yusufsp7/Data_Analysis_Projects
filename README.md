@@ -88,5 +88,6 @@ This report analyzes datasets client behavior and determine which prepaid plans 
 
 # Libraries
 *pandas*,
+*numpy*,
 *matplotlib*,
-*seaborn*.
+*scipy*.
