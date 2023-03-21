@@ -40,6 +40,6 @@ This report analyzes datasets over the last few years and determines the factors
 -----------------------------------------------
 
 # Libraries
-*pandas*
-*matplotlib*
-*seaborn*
+*pandas*,
+*matplotlib*,
+*seaborn*.
