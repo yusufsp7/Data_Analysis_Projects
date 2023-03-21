@@ -1,3 +1,7 @@
+To use table of contens please refers to these link:
+1. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/EN_Analyzing_Music_in_the_Big_City.ipynb#1
+2. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/EN_Analyzing_Music_in_the_Big_City.ipynb#1
+
 ID
 # Dokumentasi:
 - `userid` - pengenal pengguna
