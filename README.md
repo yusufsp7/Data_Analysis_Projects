@@ -1,6 +1,6 @@
 To use the table of contents interactively please use these links:
-1. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/EN_Analyzing_Music_in_the_Big_City.ipynb
-2. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/ID_Analisa_Musik_di_Kota_Besar.ipynb
+1. https://nbviewer.jupyter.org/url/path/to/EN_Analyzing_Music_in_the_Big_City.ipynb
+2.https://nbviewer.jupyter.org/url/path/to/ID_Analisa_Musik_di_Kota_Besar.ipynb
 
 ID
 # Dokumentasi:
