@@ -15,7 +15,7 @@ ID
 - `days_listed` - jumlah hari iklan ditayangkan hingga dihapus
 
 # Objektif:
-Laporan ini akan dipertimbangkan pada saat membuat penilaian kredit untuk calon nasabah.
+Laporan ini menganalisis kumpulan data selama beberapa tahun terakhir dan menentukan faktor-faktor yang mempengaruhi harga kendaraan.
 
 -----------------------------------------------
 EN
@@ -35,9 +35,11 @@ EN
 - `days_listed` - the number of days the ad was served until it was removed
 
 # Objektif:
-This report will be considered when making credit assessments for prospective customers.
+This report analyzes datasets over the last few years and determines the factors that influence vehicle prices.
 
 -----------------------------------------------
 
 # Libraries
 *pandas*
+*matplotlib*
+*seaborn*
