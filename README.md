@@ -1,4 +1,4 @@
-To use table of contens please refers to these link:
+to use the table of contents interactively please use these links:
 1. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/EN_Analyzing_Music_in_the_Big_City.ipynb
 2. https://nbviewer.org/github/yusufsp7/Data_Analysis_Projects/blob/Project_1/EN_Analyzing_Music_in_the_Big_City.ipynb#1
 
