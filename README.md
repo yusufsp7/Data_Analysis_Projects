@@ -14,7 +14,8 @@ ID
 - `Rating` - rating dari ESRB
 
 # Objektif:
-Laporan ini menganalisis kumpulan data perilaku klien dan menentukan paket prabayar mana yang menghasilkan lebih banyak pendapatan.
+1. Mengidentifikasi pola-pola yang menentukan suatu game dapat dikatakan berhasil atau tidak.
+2. Menemukan game yang paling potensial dan merencanakan kampanye iklan mereka.
 
 -----------------------------------------------
 EN
@@ -33,7 +34,8 @@ EN
 - `Rating` - rating from the ESRB
 
 # Objektif:
-This report analyzes datasets client behavior and determine which prepaid plans bring in more income.
+1. Identify the patterns that determine whether a game can be said to be successful or not.
+2. Finding the games with the most potential and planning their ad campaigns.
 
 -----------------------------------------------
 
