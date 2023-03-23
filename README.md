@@ -21,7 +21,7 @@ Semua tanggal dalam tabel ini menggunakan format YYYY-MM-DD.
 - `costs` - pengeluaran untuk sumber iklan pada tanggal tersebut
 
 # Objektif:
-Analisa perilaku pengguna untuk membantu mengoptimalkan biaya pemasaran.
+Analisa untuk membantu mengoptimalkan biaya pemasaran.
 
 -----------------------------------------------
 EN
@@ -47,7 +47,7 @@ All dates in this table use the YYYY-MM-DD format.
 - `costs` - expenses for advertising sources on that date
 
 # Objektif:
-Analysis of passenger preferences and the impact of external factors on trips
+Analysis to help optimize marketing budget.
 
 -----------------------------------------------
 
