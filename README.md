@@ -1,27 +1,23 @@
 ID
 # Dokumentasi:
-- `id` - ID jenis usaha
-- `object_name` - nama usaha
-- `address` - alamat
-- `chain` - usaha berbasis rantai (TRUE/FALSE)
-- `object_type` - jenis usaha
-- `number` - jumlah kursi
+- `EventName` - nama peristiwa
+- `DeviceIDHash` - ID unik pengguna
+- `EventTimestamp` - waktu peristiwa
+- `ExpId` - jumlah eksperimen: 246 dan 247 adalah kelompok kontrol, 248 adalah kelompok uji
 
 # Objektif:
-Analisis riset pasar restoran berbasis di LA.
+Menggunakan pengujian A/A/B untuk menganalisis kualitas aplikasi dengan data umum, terlepas dari apakah pengguna berpartisipasi dalam eksperimen atau tidak.
 
 -----------------------------------------------
 EN
 # Documentation:
-- `id` - Business type ID
-- `object_name`  - business name
-- `address` - address
-- `chain`  - chain based business (TRUE/FALSE)
-- `object_type`  - business type
-- `number` - number of seats
+- `EventName` - event name
+- `DeviceIDHash` - unique ID of the user
+- `EventTimestamp` - event time
+- `ExpId` - number of experiments: 246 and 247 are control group, 248 are test group
 
 # Objektif:
-Restaurant market research analysis based in LA.
+Using A/A/B test in order to analyze the quality of apps with general data, regardless of whether the user is participating in the experiment or not.
 
 -----------------------------------------------
 
@@ -31,6 +27,5 @@ Restaurant market research analysis based in LA.
 *matplotlib*,
 *seaborn*,
 *scipy*,
-*re*,
-*usaddress*,
-*warnings*.
+*plotly*,
+*math*.
