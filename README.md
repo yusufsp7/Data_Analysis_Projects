@@ -1,16 +1,36 @@
-# Data Analysis Projects
-ID\
-Ini adalah proyek Analis Data yang saya selesaikan saat mengikuti kursus pelatihan Analis Data di Praktikum.\
-Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visualisasi, analisis statistik, dan sebagainya.
+ID
+# Dokumentasi:
+- `id` - ID jenis usaha
+- `object_name` - nama usaha
+- `address` - alamat
+- `chain` - usaha berbasis rantai (TRUE/FALSE)
+- `object_type` - jenis usaha
+- `number` - jumlah kursi
 
-| Proyek               | Deskripsi                                                                               | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Analisa Musik](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+# Objektif:
+Analisis riset pasar restoran berbasis di LA.
 
-EN\
-These are Data Analysist projects I completed when going through the Data Analyst training course in Practicum.\
-They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, etc.
+-----------------------------------------------
+EN
+# Documentation:
+- `id` - Business type ID
+- `object_name`  - business name
+- `address` - address
+- `chain`  - chain based business (TRUE/FALSE)
+- `object_type`  - business type
+- `number` - number of seats
 
-| Project               | Description                                                                                 | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Music Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analyzing sser preferences for music in a big city|*pandas*|
+# Objektif:
+Restaurant market research analysis based in LA.
+
+-----------------------------------------------
+
+# Libraries
+*pandas*,
+*numpy*,
+*matplotlib*,
+*seaborn*,
+*scipy*,
+*re*,
+*usaddress*,
+*warnings*.
