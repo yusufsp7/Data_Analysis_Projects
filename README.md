@@ -33,7 +33,7 @@ EN
 - `User_Score` - a review score from a user, up to 10
 - `Rating` - rating from the ESRB
 
-# Objektif:
+# Objektive:
 1. Identify the patterns that determine whether a game can be said to be successful or not.
 2. Finding the games with the most potential and planning their ad campaigns.
 
