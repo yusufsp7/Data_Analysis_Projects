@@ -1,16 +1,43 @@
-# Data Analysis Projects
-ID\
-Ini adalah proyek Analis Data yang saya selesaikan saat mengikuti kursus pelatihan Analis Data di Praktikum.\
-Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visualisasi, analisis statistik, dan sebagainya.
+# Deskripsi tugas
+Anda bekerja sebagai seorang analis video *ads* di agensi periklanan Sterling & Draper. Anda menghabiskan banyak waktu untuk menganalisis video yang sedang *trending* di YouTube guna menentukan jenis konten yang menarik bagi tim pemasaran.
 
-| Proyek               | Deskripsi                                                                               | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Analisa Musik](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analisa preferensi musik di kota besar|*pandas*|
+Setiap video memiliki kategori tertentu (Hiburan, Musik, Berita & Politik, dll.), wilayah, dan tanggal *trending*.
 
-EN\
-These are Data Analysist projects I completed when going through the Data Analyst training course in Practicum.\
-They involve Data Preprocessing, Analysis and Visualization, Statistical Analysis, etc.
+Suatu video bisa saja berada di jajaran segmen *trending* selama beberapa hari berturut-turut.
 
-| Project               | Description                                                                                 | Libraries                      |
-|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
-|[Music Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_1)|Analyzing sser preferences for music in a big city|*pandas*|
+Setiap minggu, dua karyawan baru selalu mengajukan pertanyaan yang sama kepada Anda:
+
+- Kategori video apa saja yang *trending* minggu lalu?
+- Bagaimana penyebarannya di setiap wilayah?
+- Kategori apa saja yang paling populer di Amerika Serikat?
+
+Pada minggu keenam Anda bekerja, Anda memutuskan bahwa sudah saatnya untuk mengotomatisasikan proses ini. Anda pun memutuskan untuk membuat sebuah *dashboard*.
+
+Ringkasan pedoman teknisnya:
+
+- Tujuan bisnis: menganalisis riwayat video yang sedang *trending* di YouTube
+- Frekuensi penggunaan *dashboard*: minimal sekali sehari
+- Pengguna *dashboard* yang ditargetkan: para manajer perencanaan video *ads*
+- Konten data *dashboard*:
+    - Video yang pernah *trending*, dikelompokkan berdasarkan hari dan kategori
+    - Video yang sedang *trending*, dikelompokkan berdasarkan negara
+    - Tabel yang menghubungkan kategori dan negara
+- Parameter yang digunakan untuk mengelompokkan data:
+    - Tanggal dan waktu *trending*
+    - Kategori video
+    - Negara
+- Data:
+    - Riwayat *trending* — nilai absolut yang dibagi berdasarkan hari (dua grafik: nilai absolut dan rasio persentase)
+    - Sesi, dikelompokkan berdasarkan negara — nilai relatif (% sesi)
+    - Hubungan antara kategori dan negara — nilai absolut (tabel)
+- Signifikansi: semua grafik sama pentingnya
+- Sumber data untuk *dashboard*: *data engineer* akan membuat tabel agregat yang dinamai `trending_by_time`. Berikut adalah strukturnya:
+    - `record_id` — kunci primer
+    - `region` — negara/wilayah geografis
+    - `trending_date` — tanggal dan waktu
+    - `category_title` — kategori video
+    - `videos_count` — jumlah video pada segmen *trending*
+- Tabel disimpan di *database* `youtube`
+- Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
+- Grafik, kontrol *dashboard*, dan susunannya:
+
