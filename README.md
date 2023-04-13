@@ -39,13 +39,12 @@ Pada minggu keenam Anda bekerja, Anda memutuskan bahwa sudah saatnya untuk mengo
     - `videos_count` — jumlah video pada segmen *trending*
 - Tabel disimpan di *database* `youtube`
 - Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
-- Grafik, kontrol *dashboard*, dan susunannya:<br>
-<br>
+- Grafik, kontrol *dashboard*, dan susunannya:
 
 ![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
 
 # Dashboard
-Ini merupakandashboard berdasarkan pedoman teknis diatas
+Ini merupakan dashboard berdasarkan pedoman teknis diatas
 ![Gif](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/Tableau%20Public%20-%20Youtube%20Trending.gif)
 
 Silakan buka tautan ini untuk membuka versi lengkap: [Youtube Dashboard](https://public.tableau.com/views/YoutubeTrending_16798306360250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
