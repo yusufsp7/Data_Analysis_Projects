@@ -42,7 +42,7 @@ EN
 - `group`  - test group (*test group*) A/B
 - `visits` - the number of visits on the specified date for the specified A/B test group
 
-# Objektif:
+# Objektive:
 A/B testing hypotheses to help increase online store revenue.
 
 -----------------------------------------------
