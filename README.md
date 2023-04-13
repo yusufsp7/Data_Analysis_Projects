@@ -38,7 +38,7 @@ EN
 - `purpose_group` - loan purpose category
 - `total_income_group` - income category
 
-# Objektif:
+# Objektive:
 This report will be considered when making credit assessments for prospective customers.
 
 -----------------------------------------------
