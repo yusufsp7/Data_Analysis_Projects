@@ -16,7 +16,7 @@ EN
 - `EventTimestamp` - event time
 - `ExpId` - number of experiments: 246 and 247 are control group, 248 are test group
 
-# Objektif:
+# Objektive:
 Using A/A/B test in order to analyze the quality of apps with general data, regardless of whether the user is participating in the experiment or not.
 
 -----------------------------------------------
