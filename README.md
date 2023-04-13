@@ -1,5 +1,5 @@
 # Data Analysis Projects
-> There are two version of languages Englih (EN) and Indonesia (ID)
+> There are two versions of languages: English (EN) and Indonesian (ID)
 
 ID\
 Ini adalah proyek Analis Data yang saya selesaikan saat mengikuti kursus pelatihan Data Analis di Praktikum.\
