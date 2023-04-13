@@ -1,47 +1,47 @@
-# Deskripsi tugas
-Anda bekerja sebagai seorang analis video *ads* di agensi periklanan Sterling & Draper. Anda menghabiskan banyak waktu untuk menganalisis video yang sedang *trending* di YouTube guna menentukan jenis konten yang menarik bagi tim pemasaran.
+# Project description
+You work as a video analyst *ads* at the advertising agency Sterling & Draper. You spend a lot of time analyzing the videos that are currently trending on YouTube to determine the type of content that will appeal to your marketing team.
 
-Setiap video memiliki kategori tertentu (Hiburan, Musik, Berita & Politik, dll.), wilayah, dan tanggal *trending*.
+Each video has a specific category (Entertainment, Music, News & Politics, etc.), region and trending date.
 
-Suatu video bisa saja berada di jajaran segmen *trending* selama beberapa hari berturut-turut.
+A video may be in the trending segment for several days in a row.
 
-Setiap minggu, dua karyawan baru selalu mengajukan pertanyaan yang sama kepada Anda:
+Every week, two new employees ask you the same question:
 
-- Kategori video apa saja yang *trending* minggu lalu?
-- Bagaimana penyebarannya di setiap wilayah?
-- Kategori apa saja yang paling populer di Amerika Serikat?
+- What video categories were *trending* last week?
+- How is it distributed in each region?
+- What categories are most popular in the United States?
 
-Pada minggu keenam Anda bekerja, Anda memutuskan bahwa sudah saatnya untuk mengotomatisasikan proses ini. Anda pun memutuskan untuk membuat sebuah *dashboard*.
+In your sixth week on the job, you decide that it's time to automate this process. You also decide to create a dashboard.
 
-## Ringkasan pedoman teknisnya:
+## Summary of technical guidelines:
 
-- Tujuan bisnis: menganalisis riwayat video yang sedang *trending* di YouTube
-- Frekuensi penggunaan *dashboard*: minimal sekali sehari
-- Pengguna *dashboard* yang ditargetkan: para manajer perencanaan video *ads*
-- Konten data *dashboard*:
-    - Video yang pernah *trending*, dikelompokkan berdasarkan hari dan kategori
-    - Video yang sedang *trending*, dikelompokkan berdasarkan negara
-    - Tabel yang menghubungkan kategori dan negara
-- Parameter yang digunakan untuk mengelompokkan data:
-    - Tanggal dan waktu *trending*
-    - Kategori video
-    - Negara
+- Business purpose: analyze the history of videos that are currently *trending* on YouTube
+- Frequency of using *dashboard*: at least once a day
+- Targeted users *dashboard*: video planning managers *ads*
+- Data content *dashboard*:
+     - Videos that have *trending*, grouped by day and category
+     - Videos that are currently *trending*, grouped by country
+     - Table linking categories and countries
+- Parameters used to group data:
+     - Date and time *trending*
+     - Video categories
+     - Country
 - Data:
-    - Riwayat *trending* — nilai absolut yang dibagi berdasarkan hari (dua grafik: nilai absolut dan rasio persentase)
-    - Sesi, dikelompokkan berdasarkan negara — nilai relatif (% sesi)
-    - Hubungan antara kategori dan negara — nilai absolut (tabel)
-- Signifikansi: semua grafik sama pentingnya
-- Sumber data untuk *dashboard*: *data engineer* akan membuat tabel agregat yang dinamai `trending_by_time`. Berikut adalah strukturnya:
-    - `record_id` — kunci primer
-    - `region` — negara/wilayah geografis
-    - `trending_date` — tanggal dan waktu
-    - `category_title` — kategori video
-    - `videos_count` — jumlah video pada segmen *trending*
-- Tabel disimpan di *database* `youtube`
-- Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
-- Grafik, kontrol *dashboard*, dan susunannya:
+     - History *trending*  — absolute values divided by day (two graphs: absolute value and percentage ratio)
+     - Sessions, grouped by country — relative value (% sessions)
+     - Relationship between categories and countries — absolute values (table)
+- Significance: all charts are equally important
+- The data source for *dashboard*: *data engineer* will create an aggregate table named `trending_by_time`. Here is the structure:
+     - `record_id` — primary key
+     - `region` — country/geographical area
+     - `trending_date`  — date and time
+     - `category_title`  — video category
+     - `videos_count`  — the number of videos in the *trending* segment
+- The table is stored in *database* `youtube`
+- Data update interval: once every 24 hours, at midnight UTC time
+- Graphics, *dashboard* controls, and their arrangement:
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp; ![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
+&ensp;&thinsp;&ensp;&thinsp;&ensp; ![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/EN_Description.png)
 
 # Dashboard
 Ini merupakan dashboard berdasarkan pedoman teknis diatas
