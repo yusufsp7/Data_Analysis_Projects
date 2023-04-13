@@ -41,7 +41,7 @@ Pada minggu keenam Anda bekerja, Anda memutuskan bahwa sudah saatnya untuk mengo
 - Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
 - Grafik, kontrol *dashboard*, dan susunannya:
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; ![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
+&ensp;&thinsp;&ensp;&thinsp; ![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
 
 # Dashboard
 Ini merupakan dashboard berdasarkan pedoman teknis diatas
