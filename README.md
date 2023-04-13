@@ -41,4 +41,8 @@ Ringkasan pedoman teknisnya:
 - Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
 - Grafik, kontrol *dashboard*, dan susunannya:
 
-[ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
+![ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
+
+# Dashboard
+
+[Youtube Dashboard](https://public.tableau.com/views/YoutubeTrending_16798306360250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
