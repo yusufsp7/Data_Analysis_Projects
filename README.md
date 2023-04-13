@@ -34,7 +34,7 @@ EN
 - `weather_conditions` - weather conditions when the trip started
 - `duration_seconds` - trip duration in seconds
 
-# Objektif:
+# Objektive:
 Analysis of passenger preferences and the impact of external factors on trips
 
 -----------------------------------------------
