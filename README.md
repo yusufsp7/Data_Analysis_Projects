@@ -45,6 +45,6 @@ In your sixth week on the job, you decide that it's time to automate this proces
 
 # Dashboard
 Ini merupakan dashboard berdasarkan pedoman teknis diatas
-![Gif](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/Tableau%20Public%20-%20Youtube%20Trending.gif)
+![Gif](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11_EN/source_files/Tableau%20Public%20-%20Youtube%20Trending.gif)
 
-Silakan buka tautan ini untuk membuka versi lengkap: [Youtube Dashboard](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11_EN/source_files/Tableau%20Public%20-%20Youtube%20Trending.gif)
+Silakan buka tautan ini untuk membuka versi lengkap: [Youtube Dashboard](https://public.tableau.com/views/YoutubeTrending_16798306360250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
