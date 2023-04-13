@@ -46,7 +46,7 @@ All dates in this table use the YYYY-MM-DD format.
 - `dt` - date
 - `costs` - expenses for advertising sources on that date
 
-# Objektif:
+# Objektive:
 Analysis to help optimize marketing budget.
 
 -----------------------------------------------
