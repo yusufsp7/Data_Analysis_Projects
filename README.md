@@ -41,4 +41,4 @@ Ringkasan pedoman teknisnya:
 - Interval pembaruan data: setiap 24 jam sekali, pada tengah malam waktu UTC
 - Grafik, kontrol *dashboard*, dan susunannya:
 
-(https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
+[ID_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/ID_Description.png)
