@@ -20,7 +20,7 @@ EN
 - `object_type`  - business type
 - `number` - number of seats
 
-# Objektif:
+# Objektive:
 Restaurant market research analysis based in LA.
 
 -----------------------------------------------
