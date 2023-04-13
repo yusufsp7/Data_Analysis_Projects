@@ -13,7 +13,7 @@ Setiap minggu, dua karyawan baru selalu mengajukan pertanyaan yang sama kepada A
 
 Pada minggu keenam Anda bekerja, Anda memutuskan bahwa sudah saatnya untuk mengotomatisasikan proses ini. Anda pun memutuskan untuk membuat sebuah *dashboard*.
 
-Ringkasan pedoman teknisnya:
+## Ringkasan pedoman teknisnya:
 
 - Tujuan bisnis: menganalisis riwayat video yang sedang *trending* di YouTube
 - Frekuensi penggunaan *dashboard*: minimal sekali sehari
@@ -45,4 +45,6 @@ Ringkasan pedoman teknisnya:
 
 # Dashboard
 
-[Youtube Dashboard](https://public.tableau.com/views/YoutubeTrending_16798306360250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+![Gif](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11/source_files/Tableau%20Public%20-%20Youtube%20Trending.gif)
+
+Silakan buka tautan ini untuk membuka versi lengkap: [Youtube Dashboard](https://public.tableau.com/views/YoutubeTrending_16798306360250/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
