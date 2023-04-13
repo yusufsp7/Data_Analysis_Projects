@@ -81,7 +81,7 @@ EN
 - `city` — the city where the user lives
 - `plan` — name of the phone plan
 
-# Objektif:
+# Objektive:
 This report analyzes datasets client behavior and determine which prepaid plans bring in more income.
 
 -----------------------------------------------
