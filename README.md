@@ -15,6 +15,8 @@ Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visu
 |08. |[Analisa Toko Daring](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_8)|Hipotesis A/B testing untuk membantu meningkatkan pendapatan toko daring|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *datetime*|
 |09. |[Analisa Riset Pasar](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_9)|Analisis riset pasar restoran berbasis di LA|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *re*, *usaddress*, *warnings*|
 |10. |[Analisa A/A/B](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_10)|Menggunakan pengujian A/A/B untuk menganalisis kualitas aplikasi dengan data umum, terlepas dari apakah pengguna berpartisipasi dalam eksperimen atau tidak|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
+|11. |[zzz](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_10)|zzz|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
+|12. |[Analisa Pelanggan Pusat Kebugaran](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_12)|Menggunakan model machine learning untuk Menganalisis profil para pelanggan dan mengembangkan strategi retensi pelanggan|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *scipy*, *warnings*|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,3 +36,5 @@ They involve Data Preprocessing, Analysis and Visualization, Statistical Analysi
 |08. |[Online Store Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_8)|A/B testing hypothesis to help increase online store revenue|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *datetime*|
 |09. |[Market Research Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_9)|LA based restaurant market research analysis|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *re*, *usaddress*, *warnings*|
 |10. |[A/A/B Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_10)|Use A/A/B testing to analyze app quality with common data, regardless of whether users participate in experiments or not|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
+|11. |[zzz](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_10)|zzz|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
+|12. |[Fitness Center Customer Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Project_12)|Using machine learning models to analyze customer profiles and develop customer retention strategies|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *scipy*, *warnings*|
