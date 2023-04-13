@@ -22,7 +22,7 @@ EN
 - `time` - the length of time the song is played
 - `day` - the name of the day
 
-# Objektif:
+# Objektive:
 Analyzing music preferences in big cities.
 
 -----------------------------------------------
