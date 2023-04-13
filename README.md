@@ -27,7 +27,7 @@ Menggunakan model *machine learning* untuk Menganalisis profil para pelanggan da
 -----------------------------------------------
 EN
 # Documentation:
-- `Churn` — actual *churn* for the concerned month, `0` means still subscribed and `1` means unsubscribed <br>
+- `Churn` — actual churn for the concerned month, `0` means still subscribed and `1` means unsubscribed <br>
 <br>
 
 &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;  User data for the previous month:
