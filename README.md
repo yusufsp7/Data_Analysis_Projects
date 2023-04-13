@@ -34,7 +34,7 @@ EN
 - `date_posted` - the date the ad was posted
 - `days_listed` - the number of days the ad was served until it was removed
 
-# Objektif:
+# Objektive:
 This report analyzes datasets over the last few years and determines the factors that influence vehicle prices.
 
 -----------------------------------------------
