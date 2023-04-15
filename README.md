@@ -29,3 +29,5 @@ Using A/A/B test in order to analyze the quality of apps with general data, rega
 *scipy*,
 *plotly*,
 *math*.
+
+[Back to tables of contents](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Tables_of_Contents)
