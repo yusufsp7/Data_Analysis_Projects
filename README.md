@@ -61,3 +61,5 @@ Using *machine learning* models to analyze customer profiles and develop custome
 *sklearn*,
 *scipy*
 *warnings*.
+
+[Back to tables of contents](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Tables_of_Contents)
