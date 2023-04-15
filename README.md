@@ -43,3 +43,5 @@ This report analyzes datasets over the last few years and determines the factors
 *pandas*,
 *matplotlib*,
 *seaborn*.
+
+[Back to tables of contents](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Tables_of_Contents)
