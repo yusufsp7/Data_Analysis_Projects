@@ -11,7 +11,7 @@ EN
 # Description
 There are 4 parts in the final project:
 1. [Part 1](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project/Part_1_Planning_EN) task decomposition: breaking down project tasks into subtasks. Preparing a project completion plan and getting approval from the team leader.
-2. [Part 2](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project/Part_2_ABTesting) *A/B testing*: this is another project that has nothing to do with parts 1, 3, or 4 (independent), conducting an examination of an A/B testing project that had not previously been completed.
+2. [Part 2](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project/Part_2_ABTesting) A/B testing: this is another project that has nothing to do with parts 1, 3, or 4 (independent), conducting an examination of an A/B testing project that had not previously been completed.
 3. [Part 3](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project/Part_3_SQL) SQL: also another project that has nothing to do with parts 1,2, or 4 (independent), performs dataset analysis that will be used to make a price quote for a new product.
 4. [Part 4](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project/Part_4_Submission) project submission: this is a continuation of part 1, conducting analysis on customer transaction history datasets with the aim of coming up with offers that suit customer segments.
 
