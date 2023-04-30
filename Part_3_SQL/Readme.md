@@ -82,6 +82,6 @@ Analyze this dataset to obtain information that will be used in making a price q
 *sqlalchemy*.
 
 # Data Diagrams
-https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_3_SQL/Diagram%20Data.png
+![Data Diagrams](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_3_SQL/Diagram%20Data.png)
 
 [Back to tables of contents](https://github.com/yusufsp7/Data_Analysis_Projects/tree/Tables_of_Contents)
