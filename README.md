@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/04_Project/EN_Phone_Subscription_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/04_Project/ID_Analisa_Langganan_Telepon.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi tabel `calls` (data panggilan):
 
