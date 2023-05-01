@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_2_ABTesting/AB_Testing_EN.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_2_ABTesting/AB_Testing_ID.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 &ensp;&thinsp;&ensp;&thinsp;  `ab_project_marketing_events_us.csv` — kalender event pemasaran untuk tahun 2020
