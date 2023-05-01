@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/05_Project/EN_Analyzing_Game.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/05_Project/ID_Analsisa_Game.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 
