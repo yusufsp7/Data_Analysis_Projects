@@ -19,6 +19,7 @@ They involve Data Preprocessing, Analysis and Visualization, Statistical Analysi
 |10. |[A/A/B Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/10_Project)|Use A/A/B testing to analyze app quality with common data, regardless of whether users participate in experiments or not|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
 |11. |[Youtube trending dashboard](https://github.com/yusufsp7/Data_Analysis_Projects/blob/11_Project_EN/README.md)|analyzing the history of videos that are currently trending on YouTube|-|
 |12. |[Fitness Center Customer Analysis](https://github.com/yusufsp7/Data_Analysis_Projects/tree/12_Project)|Using machine learning models to analyze customer profiles and develop customer retention strategies|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *scipy*, *warnings*|
+|13. |[Final Project](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project)|This final project covers planning, A/B test, SQL, and submission of the project after the planning section|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*, *sqlalchemy*, *sklearn*|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,3 +41,4 @@ Proyek ini melibatkan beberapa proses seperti pemrosesan data, analisis dan visu
 |10. |[Analisa A/A/B](https://github.com/yusufsp7/Data_Analysis_Projects/tree/10_Project)|Menggunakan pengujian A/A/B untuk menganalisis kualitas aplikasi dengan data umum, terlepas dari apakah pengguna berpartisipasi dalam eksperimen atau tidak|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*|
 |11. |[Youtube trending dashboard](https://github.com/yusufsp7/Data_Analysis_Projects/blob/11_Project_ID/README.md)|menganalisis riwayat video yang sedang trending di YouTube|-|
 |12. |[Analisa Pelanggan Pusat Kebugaran](https://github.com/yusufsp7/Data_Analysis_Projects/tree/12_Project)|Menggunakan model machine learning untuk Menganalisis profil para pelanggan dan mengembangkan strategi retensi pelanggan|*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *scipy*, *warnings*|
+|13. |[Final Project](https://github.com/yusufsp7/Data_Analysis_Projects/tree/13_Final_Project)|Tugas akhir ini meliputi perencanaan, pengujian A/B, SQL, dan penyerahan proyek setelah bagian perencanaan|*pandas*, *numpy*, *matplotlib*, *seaborn*, *scipy*, *plotly*, *math*, *sqlalchemy*, *sklearn*|
