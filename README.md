@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/03_Project/EN_Analyzing_Car_Ads.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/03_Project/ID_Analisis_Iklan_Mobil.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi: 
 
