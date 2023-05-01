@@ -1,4 +1,6 @@
->Please open the .ipynb files in this folder to see full content
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/01_Project/EN_Analyzing_Music_in_the_Big_City.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/01_Project/ID_Analisa_Musik_di_Kota_Besar.ipynb) untuk melihat keseluruhan konten
 
 ID
 # Dokumentasi:
