@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/10_Project/EN_AAB_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/10_Project/ID_Analisa_AAB.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 - `EventName` - nama peristiwa
