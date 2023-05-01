@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/09_Project/EN_Market_Research_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/09_Project/ID_Analisa_Riset_Pasar.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 - `id` - ID jenis usaha
