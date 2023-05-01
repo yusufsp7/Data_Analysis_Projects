@@ -41,7 +41,7 @@ In your sixth week on the job, you decide that it's time to automate this proces
 - Data update interval: once every 24 hours, at midnight UTC time
 - Graphics, *dashboard* controls, and their arrangement:
 
-&ensp;&thinsp;&ensp;&thinsp;&ensp; ![EN_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/Project_11_EN/source_files/EN_Description.png)
+&ensp;&thinsp;&ensp;&thinsp;&ensp; ![EN_Description](https://github.com/yusufsp7/Data_Analysis_Projects/blob/11_Project_EN/source_files/EN_Description.png)
 
 # Dashboard
 This is a dashboard based on the technical guidelines above
