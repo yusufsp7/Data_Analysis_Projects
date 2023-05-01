@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_4_Submission/Customer_Segment_EN.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_4_Submission/Customer_Segment_ID.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 - `InvoiceNo` — pengenal pesanan
