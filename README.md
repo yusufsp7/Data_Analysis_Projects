@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/07_Project/EN_Marketing_Cost_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/07_Project/ID_Analisa_Biaya_Pemasaran.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi tabel `visits` (log/catatan server yang memuat data kunjungan ke situs web):
 Semua tanggal dalam tabel ini menggunakan format YYYY-MM-DD.
