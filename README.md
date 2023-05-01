@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/08_Project/EN_Online_Store_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/08_Project/ID_Analisa_Online_Store.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi tabel `hypotheses_us`:
 - `Hypotheses` - deskripsi singkat tentang hipotesis
