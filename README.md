@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/02_Project/EN_Analyzing_Credit_Scoring.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/02_Project/ID_Analisis_Penilaian_Kredit.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 - `children` - jumlah anak dalam keluarga
