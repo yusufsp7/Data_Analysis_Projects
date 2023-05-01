@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/12_Project/EN_Fitness_Center_Customer_Analysis.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/12_Project/ID_Analisa_Pelanggan_Pusat_Kebugaran.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 - `Churn` — *churn* aktual untuk bulan terkait, `0` berarti masih berlangganan dan `1` berarti sudah berhenti berlangganan <br>
