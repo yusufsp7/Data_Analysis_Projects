@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/06_Project/EN_Passenger_Analysis_Ride_Sharing.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/06_Project/ID_Analisa_Penumpang_Ride_Sharing.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi Dataset Pertama:
 - `company_name` - nama perusahaan taksi
