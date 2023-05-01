@@ -1,3 +1,7 @@
+>Please refer to [this](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_3_SQL/SQL_EN.ipynb) .ipynb files to see full content
+
+>Silahkan lihat file .iypnb [ini](https://github.com/yusufsp7/Data_Analysis_Projects/blob/13_Final_Project/Part_3_SQL/SQL_ID.ipynb) untuk melihat keseluruhan konten
+
 ID
 # Dokumentasi:
 &ensp;&thinsp;&ensp;&thinsp; books (Berisi data tentang buku):
