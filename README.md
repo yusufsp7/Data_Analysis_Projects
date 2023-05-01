@@ -1,3 +1,5 @@
+>Please open the .ipynb files in this folder to see full content
+
 ID
 # Dokumentasi:
 - `userid` - pengenal pengguna
